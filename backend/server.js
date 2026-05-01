@@ -22,7 +22,8 @@ connectDB();
 const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
-  'https://aicte-inky.vercel.app'
+  // 'https://aicte-inky.vercel.app',
+   'https://aicte-git-main-ankush10.vercel.app'
 ];
 
 app.use(cors({
